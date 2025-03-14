@@ -25,9 +25,9 @@ Welcome to my GitHub profile!
 - **Email:** [dzh-ma@proton.me](mailto:dzh-ma@proton.me)
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)
-
----
+<!---->
+<!--## 📈 GitHub Stats-->
+<!---->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
+<!---->
+<!------->
