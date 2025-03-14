@@ -1,7 +1,9 @@
 # Hi There 👋
 
-I'm a passionate developer with a focus on building innovative and impactful projects.
-Welcome to my GitHub profile!
+I build things that solve real problems.
+Currently exploring energy efficiency through home automation &
+    creating a more intuitive programming language.
+When not coding, you'll find me tinkering with NeoVim configs or learning about Zig.
 
 ---
 
