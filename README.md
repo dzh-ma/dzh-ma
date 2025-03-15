@@ -1,17 +1,13 @@
 # Hi There 👋
 
-I build things that solve real problems.
-Currently exploring energy efficiency through home automation &
-    creating a more intuitive programming language.
-When not coding, you'll find me tinkering with NeoVim configs or learning about Zig.
+I'm a student who loves ricing & optimizing inefficiencies.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Zig, Python, JavaScript, OCaml, C++, Rust, Ruby
-- **Frameworks:** React, FastAPI, Django, Node.js, Ruby on Rails
-- **Tools:** Git, Docker, NeoVim, VMware, Node-RED
+- ✏ Zig / Python / OCaml / C++ / Rust / JavaScript / Ruby
+- 📦 Arch Linux / NeoVim / VMware / mpv / Hyprland / Firefox / Zathura / Ghostty / Fish
 
 ---
 
@@ -27,9 +23,12 @@ When not coding, you'll find me tinkering with NeoVim configs or learning about 
 - **Email:** [dzh-ma@proton.me](mailto:dzh-ma@proton.me)
 
 ---
-<!---->
-<!--## 📈 GitHub Stats-->
-<!---->
+
+## 📈 GitHub Stats
+
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
-<!---->
-<!------->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
