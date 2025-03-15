@@ -32,7 +32,7 @@ I'm a student who loves ricing & optimizing inefficiencies.
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka&v2-->
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
 
