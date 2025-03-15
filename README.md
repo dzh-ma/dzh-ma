@@ -26,9 +26,9 @@ I'm a student who loves ricing & optimizing inefficiencies.
 
 ## 📈 GitHub Stats
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
 
 ---
