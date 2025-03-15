@@ -17,3 +17,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: "⬜🟨🟩"
           SHOW_TIME: true
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
