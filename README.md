@@ -6,7 +6,7 @@ I'm a student who loves ricing & optimizing inefficiencies.
 
 ## 🛠️ Technologies & Tools
 
-- ✏ Zig / Python / OCaml / C++ / Rust / JavaScript / Ruby
+- ✏️  Zig / Python / OCaml / C++ / Rust / JavaScript / Ruby
 - 📦 Arch Linux / NeoVim / VMware / mpv / Hyprland / Firefox / Zathura / Ghostty / Fish
 
 ---
@@ -24,7 +24,7 @@ I'm a student who loves ricing & optimizing inefficiencies.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <!--START_SECTION:waka-->
 
