@@ -4,20 +4,21 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC
-    - cron: "1 21 * * *"
+    # runs every 2 hours
+    # - cron: "0 */2 * * *"
+    - cron: "0/1 * * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: "⬜🟨🟩"
-          SHOW_TIME: "True"
-          SHOW_TOTAL: "True"
-          LANG_COUNT: "20"
-          TIME_RANGE: "all_time"
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          # BLOCKS: "⬜🟨🟩"
+          # SHOW_TIME: "True"
+          # SHOW_TOTAL: "True"
+          # LANG_COUNT: "20"
+          # TIME_RANGE: "all_time"
+          # COMMIT_MESSAGE: Updated waka-readme graph with new metrics
