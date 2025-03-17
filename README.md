@@ -30,15 +30,6 @@ I'm a student who loves ricing & optimizing inefficiencies.
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dzh_ma)
 
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     1 hr 13 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.94 %
-Python       37 mins         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.68 %
-TypeScript   26 mins         🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.81 %
-Text         20 mins         🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.67 %
-Lua          13 mins         🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.09 %
-```
-
 <!--END_SECTION:waka-->
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
