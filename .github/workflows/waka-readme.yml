@@ -18,4 +18,6 @@ jobs:
           BLOCKS: "⬜🟨🟩"
           SHOW_TIME: "True"
           SHOW_TOTAL: "True"
+          LANG_COUNT: "20"
+          TIME_RANGE: "all_time"
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
