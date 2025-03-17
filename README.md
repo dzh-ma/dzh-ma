@@ -26,9 +26,6 @@ I'm a student who loves ricing & optimizing inefficiencies.
 
 ## 📈 Stats
 
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dzh_ma)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
