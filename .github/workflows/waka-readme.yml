@@ -6,7 +6,7 @@ on:
   schedule:
     # runs every 2 hours
     # - cron: "0 */2 * * *"
-    - cron: "0/1 * * * *"
+    - cron: "* * * * *"
 
 jobs:
   update-readme:
@@ -16,9 +16,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakatime.com/api
           BLOCKS: ⬜🟨🟩
-          SHOW_TIME: True
-          SHOW_TOTAL: True
+          SHOW_TIME: true
+          SHOW_TOTAL: true
           LANG_COUNT: 20
           TIME_RANGE: all_time
+          SHOW_MASKED_TIME: false
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
