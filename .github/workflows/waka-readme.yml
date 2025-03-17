@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC
-    - cron: "0 21 * * *"
+    - cron: "1 21 * * *"
 
 jobs:
   update-readme:
@@ -16,9 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: "⬜🟨🟩"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_COMMIT: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_TIME: "True"
+          SHOW_TOTAL: "True"
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
