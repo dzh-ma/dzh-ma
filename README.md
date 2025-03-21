@@ -55,6 +55,6 @@ INI               0 secs          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=default)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzh-ma&show_icons=true&theme=catppuccin_mocha)
 
 ---
