@@ -15,6 +15,7 @@ I'm a student who loves ricing & optimizing inefficiencies.
 
 - **[Sync Smart Home Manager](https://github.com/dzh-ma/sync):** Smart home system designed to conserve energy & save costs
 - **[lexica](https://github.com/dzh-ma/lexica):** Programming language project with an emphasis on English-like syntax
+- **[textile](https://github.com/dzh-ma/textile):** TUI GTK theme-switcher.
 
 ---
 
