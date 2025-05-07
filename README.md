@@ -13,14 +13,14 @@ I'm a student who loves ricing & optimizing inefficiencies.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 March 2025 - To: 05 May 2025
+From: 14 March 2025 - To: 06 May 2025
 
-Total Time: 101 hrs 31 mins
+Total Time: 101 hrs 32 mins
 
 Markdown          29 hrs 31 mins  ███████▒░░░░░░░░░░░░░░░░░   29.04 %
 norg              17 hrs 7 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
 Python            15 hrs 12 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 Lua               6 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
 TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 Java              3 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
