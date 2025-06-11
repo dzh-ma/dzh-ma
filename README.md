@@ -13,28 +13,28 @@ I'm a student who loves ricing & optimizing inefficiencies.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 March 2025 - To: 09 June 2025
+From: 14 March 2025 - To: 10 June 2025
 
-Total Time: 108 hrs 2 mins
+Total Time: 108 hrs 6 mins
 
-Markdown          29 hrs 51 mins  ███████░░░░░░░░░░░░░░░░░░   27.60 %
-norg              17 hrs 7 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-Python            15 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Markdown          29 hrs 51 mins  ███████░░░░░░░░░░░░░░░░░░   27.59 %
+norg              17 hrs 7 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Python            15 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 Lua               7 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-CSS               4 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-conf              3 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+CSS               4 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+conf              3 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 Java              3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 Rust              2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 YAML              2 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 hyprlang          2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON              1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JSON              1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 Text              1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 JavaScript        51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 fish              41 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 tmux              36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-gitignore         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+gitignore         32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 TOML              25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Vim Script        21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
