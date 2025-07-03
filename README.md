@@ -13,19 +13,19 @@ I'm a student who loves ricing & optimizing inefficiencies.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 March 2025 - To: 01 July 2025
+From: 14 March 2025 - To: 02 July 2025
 
-Total Time: 113 hrs 33 mins
+Total Time: 113 hrs 35 mins
 
-Markdown          29 hrs 56 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
-norg              17 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Python            15 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Markdown          29 hrs 56 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+norg              17 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Python            15 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
 Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Lua               8 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-CSS               5 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Lua               8 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+CSS               5 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-conf              3 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-hyprlang          3 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+conf              3 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+hyprlang          3 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 Java              3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 Rust              2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 YAML              2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
