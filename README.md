@@ -13,23 +13,23 @@ I'm a student who loves ricing & optimizing inefficiencies.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 March 2025 - To: 07 July 2025
+From: 14 March 2025 - To: 08 July 2025
 
-Total Time: 115 hrs 6 mins
+Total Time: 115 hrs 15 mins
 
-Markdown          29 hrs 57 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
-norg              17 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Python            15 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Lua               8 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-CSS               5 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-conf              4 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Markdown          29 hrs 57 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+norg              17 hrs 7 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+Python            15 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Zig               8 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Lua               8 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+CSS               5 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+conf              4 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
 hyprlang          3 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Java              3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Java              3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 Rust              2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 YAML              2 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-JSON              1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON              1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 fish              1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 Text              1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 JavaScript        51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
