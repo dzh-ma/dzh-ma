@@ -13,23 +13,23 @@ I'm a student who loves ricing & optimizing inefficiencies.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 March 2025 - To: 20 August 2025
+From: 14 March 2025 - To: 21 August 2025
 
-Total Time: 125 hrs 34 mins
+Total Time: 126 hrs 6 mins
 
-Markdown          30 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   24.05 %
-norg              17 hrs 21 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-Python            15 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-CSS               10 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Lua               8 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Zig               8 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-conf              5 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-hyprlang          4 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Java              3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Rust              2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-YAML              2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-fish              1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Markdown          30 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+norg              17 hrs 21 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Python            15 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+CSS               10 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Lua               9 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Zig               8 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+conf              5 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+hyprlang          5 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+TypeScript        4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Java              3 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Rust              2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+YAML              2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+fish              1 hr 55 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 JSON              1 hr 29 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 Text              1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 Bash              56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
