@@ -13,7 +13,7 @@ I'm a student who loves ricing & optimizing inefficiencies.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 March 2025 - To: 26 October 2025
+From: 14 March 2025 - To: 27 October 2025
 
 Total Time: 168 hrs 22 mins
 
